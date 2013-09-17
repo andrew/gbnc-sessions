@@ -1,0 +1,11 @@
+# Meta Programming with Streams and Pipes
+
+EEP (windowed events) and Beam (CEP-like streams and pipes) will be getting update(s)
+soon and taking on some meta just in time for GBNC. There will be demo's. Demo's will
+integrate with hardware.
+
+## Needs
+
+Power for 2 or 3 USB-powered devices that I'll bring (Raspberry Pi, Arduino, Makey Makey, Leap, 1-metre long 'thing').
+Loan of an AR Drone
+A table - to put a Robosapiens v1 (perhaps v2 too) and a '1 metre long device' on.
